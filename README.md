@@ -1,5 +1,8 @@
-This is a platformer.
-kill enemies by jumping on them or shooting them. Once you have killed enough enemies you level up and the game "Frezees", you can now upgrade your laser length by pressing 1.
+This is a simple 1D combat game.
+You upgrade your stats by simply pressing on upgrade "stat-name". You can spawn units on both sides A or B. There is also an AI spawning rapidly on side B and upgrading for side B's units.
+</br>
+</br>
+
 ![](https://github.com/LuEklund/1D-Combat-SFML/blob/master/assets/thumbnail.png)
 
 ## Prerequisites
@@ -27,5 +30,5 @@ Key | action
 --- | ---
 `A` | Spawn ally unit.  
 `D` | Spawn enemy unit.
-`left-click` | click on bottom options to upgarde your units.  
+`left-click` | Click on the bottom options to upgrade sides A's units.  
 `ESC` | Pause the program.
